@@ -7,4 +7,4 @@ You play as the 2 of Diamonds, who searches for the rest of their suit (the rest
 
 It's all done in pixel art, which was created by Bridger and myself. 
 
-The code isn't particularly written or organized well, as I was still fairly new to programming, as was Bridger.
+The code isn't particularly written or organized well, as I was still fairly new to programming, as was Bridger (who also wasn't a CS student).
